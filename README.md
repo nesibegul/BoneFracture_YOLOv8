@@ -1,5 +1,5 @@
 # BoneFracture_YOLOv8
-### To create environment (2. one created env in current folder with your project)
+### To create environment
 ```
 conda create --prefix ./venv python -y 
 ```
