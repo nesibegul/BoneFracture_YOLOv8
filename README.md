@@ -1,5 +1,5 @@
 # BoneFracture_YOLOv8
-### To create environment
+### to create environment
 ```
 conda create --prefix ./venv python -y 
 ```
@@ -7,11 +7,11 @@ conda create --prefix ./venv python -y
 ```
 conda activate ./venv
 ```
-### install requirements
+### to install requirements
 ```
 pip install -r requirements.txt
 ```
-### activate streamlit
+### to activate streamlit
 ```
 streamlit run app.py
 ```
